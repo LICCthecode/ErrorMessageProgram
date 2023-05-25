@@ -10,6 +10,7 @@ import httpx
 from pywintypes import Time as PyTime
 
 # Set up OpenAI API credentials
+# NOTE replace this API key with a personally generated one at https://platform.openai.com/account/api-keys
 openai.api_key = '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'
 
 # Global variables
