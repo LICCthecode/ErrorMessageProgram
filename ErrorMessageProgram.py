@@ -10,7 +10,7 @@ import httpx
 from pywintypes import Time as PyTime
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Global variables
 previous_message = ""
